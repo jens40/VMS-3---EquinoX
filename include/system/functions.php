@@ -293,14 +293,13 @@ function ShowPagination($table, $limit, $target, $where = "",$anzahl = "")
 /* Diesen Code nicht ändern oder löschen */
 /*    Don't remove or edit this Code     */
 function dsn_copyright($lizenzkey) {
-echo '
+echo ' 
 <br>
 <div align="center">
 <table cellpadding="3" cellspacing="1" border="0" bgcolor="#000000">
 <tr>
 <td bgcolor="#f0f0f0" align="center">
 <font face="Verdana,Geneva,Arial,Helvetica,sans-serif" color="#000000" style="font-size:10px;">&nbsp;&nbsp;VMS 3 - EquinoX&sup3; &copy; by <a href="http://www.com-dat.de" target="_blank" style="text-decoration:none;color: #0000cc;">Com-Dat.De</a>&nbsp;&nbsp;<br>
-&nbsp;&nbsp;[Lizenzkey: '.$lizenzkey.']&nbsp;&nbsp;</font>
 </td>
 </tr>
 </table>
